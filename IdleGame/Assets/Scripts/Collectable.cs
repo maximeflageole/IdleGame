@@ -8,5 +8,6 @@ public class Collectable : Clickable
     protected override void OnClick()
     {
         Inventory.INSTANCE.AddResource(m_resourceType, m_baseAmount);
+        base.OnClick();
     }
 }

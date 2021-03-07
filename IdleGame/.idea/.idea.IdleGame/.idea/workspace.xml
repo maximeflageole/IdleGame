@@ -17,10 +17,10 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/Clickable.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/EResource.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Clickable.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pFvjy2OlWzFM4zSdMkNNXE9NAF" />
@@ -45,10 +45,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="1564">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="1564" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -64,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614791793672</updated>
       <workItem from="1614791803602" duration="290000" />
-      <workItem from="1614792108960" duration="1661000" />
+      <workItem from="1614792108960" duration="2399000" />
+      <workItem from="1615143773340" duration="354000" />
     </task>
     <servers />
   </component>
