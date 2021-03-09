@@ -9,7 +9,7 @@ public class Clickable : MonoBehaviour
         OnClick();
     }
 
-    protected virtual void OnClick()
+    public virtual void OnClick()
     {
         if (m_audioSource != null && m_audioSource.clip != null)
         {
